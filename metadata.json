@@ -1,0 +1,70 @@
+{
+  "siteId": "healthy-snack-choice",
+  "generatedAt": "2026-06-05T17:27:18.917581",
+  "categories": [
+    "beginner-healthy-snack-choice",
+    "advanced-healthy-snack-choice",
+    "tips-healthy-snack-choice",
+    "history-healthy-snack-choice",
+    "trending-healthy-snack-choice",
+    "tutorials-healthy-snack-choice"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-healthy-snack-choice",
+      "category_name": "Beginner Healthy Snack Choice"
+    },
+    {
+      "category_slug": "advanced-healthy-snack-choice",
+      "category_name": "Advanced Healthy Snack Choice"
+    },
+    {
+      "category_slug": "tips-healthy-snack-choice",
+      "category_name": "Healthy Snack Choice Tips"
+    },
+    {
+      "category_slug": "history-healthy-snack-choice",
+      "category_name": "Healthy Snack Choice History"
+    },
+    {
+      "category_slug": "trending-healthy-snack-choice",
+      "category_name": "Trending Healthy Snack Choice"
+    },
+    {
+      "category_slug": "tutorials-healthy-snack-choice",
+      "category_name": "Healthy Snack Choice Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "healthy-snack-choice",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Poppins",
+      "family": "'Poppins', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');"
+    },
+    "layout": "sidebar-right",
+    "border_radius": "24px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "list",
+    "header_style": "classic",
+    "footer_style": "detailed",
+    "modules": [
+      "social-links",
+      "about-widget",
+      "popular-tags",
+      "category-highlights"
+    ],
+    "site_title": "Healthy Snack Choice Central",
+    "articles_per_row": 3
+  }
+}

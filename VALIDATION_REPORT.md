@@ -1,0 +1,136 @@
+# Validation Report - healthy-snack-choice
+
+Generated: 2026-06-05T17:27:18.917225
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Best Resources for Beginner Healthy Snack Choice for Beginners
+- ✓ Article word count OK: The Future of Common Mistakes in Beginner Healthy Snack Choice: What to Expect
+- ✓ Article word count OK: The Future of Beginner Healthy Snack Choice: What to Expect
+- ✓ Article word count OK: Why Common Mistakes in Beginner Healthy Snack Choice is Trending in 2026
+- ✓ Article word count OK: Beginner Healthy Snack Choice: Must-Read Insights and Reviews
+- ✓ Article word count OK: The History of Beginner Healthy Snack Choice: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Exploring the World of Beginner Healthy Snack Choice Tips and Best Practices
+- ✓ Article word count OK: Essential Advanced Beginner Healthy Snack Choice Techniques Techniques You Should Know
+- ✓ Article word count OK: Advanced Beginner Healthy Snack Choice Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Ultimate Guide to Beginner Healthy Snack Choice in 2026: Current Trends
+- ✓ Article word count OK: Beginner Healthy Snack Choice: Must-Read Insights and Reviews
+- ✓ Article word count OK: Beginner Healthy Snack Choice: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Beginner Healthy Snack Choice
+- ✓ Article word count OK: The Best Resources for Beginner Healthy Snack Choice
+- ✓ Article word count OK: Exploring the World of Beginner Healthy Snack Choice in 2026: Current Trends
+- ✓ Article word count OK: Proven Strategies for Advanced Beginner Healthy Snack Choice Techniques
+- ✓ Article word count OK: Common Mistakes in Beginner Healthy Snack Choice: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for Advanced Beginner Healthy Snack Choice Techniques
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Advanced Healthy Snack Choice
+- ✓ Article word count OK: Advanced Healthy Snack Choice Tips and Best Practices: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why Advanced Healthy Snack Choice for Beginners is Trending in 2026
+- ✓ Article word count OK: Advanced Healthy Snack Choice Tips and Best Practices: Must-Read Insights and Reviews
+- ✓ Article word count OK: Common Mistakes in Advanced Healthy Snack Choice: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Advanced Healthy Snack Choice in 2026: Current Trends
+- ✓ Article word count OK: Why Advanced Advanced Healthy Snack Choice Techniques is Trending in 2026
+- ✓ Article word count OK: Future of Advanced Healthy Snack Choice: Must-Read Insights and Reviews
+- ✓ Article word count OK: Essential Advanced Healthy Snack Choice Tips and Best Practices Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Advanced Healthy Snack Choice
+- ✓ Article word count OK: Exploring the World of The History of Advanced Healthy Snack Choice
+- ✓ Article word count OK: The Truth About Advanced Healthy Snack Choice Tips and Best Practices
+- ✓ Article word count OK: Why The History of Advanced Healthy Snack Choice is Trending in 2026
+- ✓ Article word count OK: The History of Advanced Healthy Snack Choice: From Beginner to Expert
+- ✓ Article word count OK: Common Mistakes in Advanced Healthy Snack Choice: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why The History of Advanced Healthy Snack Choice is Trending in 2026
+- ✓ Article word count OK: Why Advanced Healthy Snack Choice Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Exploring the World of Future of Advanced Healthy Snack Choice
+- ✓ Article word count OK: Understanding Healthy Snack Choice Tips: Everything You Need to Know: A Deep Dive
+- ✓ Article word count OK: Exploring the World of Healthy Snack Choice Tips for Beginners
+- ✓ Article word count OK: Exploring the World of Healthy Snack Choice Tips
+- ✓ Article word count OK: Essential Future of Healthy Snack Choice Tips Techniques You Should Know
+- ✓ Article word count OK: The Future of Healthy Snack Choice Tips: What to Expect
+- ✓ Article word count OK: The Ultimate Guide to Healthy Snack Choice Tips: Everything You Need to Know
+- ✓ Article word count OK: The Best Resources for Healthy Snack Choice Tips in 2026: Current Trends
+- ✓ Article word count OK: The Best Resources for Healthy Snack Choice Tips
+- ✓ Article word count OK: Everything You Need to Know About The History of Healthy Snack Choice Tips
+- ✓ Article word count OK: The Hidden Secrets of Healthy Snack Choice Tips for Beginners
+- ✓ Article word count OK: The Hidden Secrets of Healthy Snack Choice Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Healthy Snack Choice Tips: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Healthy Snack Choice Tips
+- ✓ Article word count OK: Healthy Snack Choice Tips in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: Healthy Snack Choice Tips Tips and Best Practices: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Future of Healthy Snack Choice Tips for Beginners: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Healthy Snack Choice Tips
+- ✓ Article word count OK: Healthy Snack Choice Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: Proven Strategies for Healthy Snack Choice History
+- ✓ Article word count OK: Understanding Healthy Snack Choice History Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: The Best Resources for Healthy Snack Choice History: Everything You Need to Know
+- ✓ Article word count OK: Exploring the World of Advanced Healthy Snack Choice History Techniques
+- ✓ Article word count OK: Exploring the World of Healthy Snack Choice History in 2026: Current Trends
+- ✓ Article word count OK: Common Mistakes in Healthy Snack Choice History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Advanced Healthy Snack Choice History Techniques
+- ✓ Article word count OK: Advanced Healthy Snack Choice History Techniques: From Beginner to Expert
+- ✓ Article word count OK: Mastering Healthy Snack Choice History for Beginners in Easy Steps
+- ✓ Article word count OK: Exploring the World of Healthy Snack Choice History
+- ✓ Article word count OK: Everything You Need to Know About Future of Healthy Snack Choice History
+- ✓ Article word count OK: Mastering Healthy Snack Choice History for Beginners in Easy Steps
+- ✓ Article word count OK: Why Healthy Snack Choice History Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Healthy Snack Choice History Tips and Best Practices
+- ✓ Article word count OK: Everything You Need to Know About Healthy Snack Choice History
+- ✓ Article word count OK: Exploring the World of Healthy Snack Choice History Tips and Best Practices
+- ✓ Article word count OK: Everything You Need to Know About Future of Healthy Snack Choice History
+- ✓ Article word count OK: Mastering Healthy Snack Choice History in Easy Steps
+- ✓ Article word count OK: Trending Healthy Snack Choice in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Trending Healthy Snack Choice
+- ✓ Article word count OK: Everything You Need to Know About Future of Trending Healthy Snack Choice
+- ✓ Article word count OK: Why You Need to Check Out The History of Trending Healthy Snack Choice
+- ✓ Article word count OK: Exploring the World of The History of Trending Healthy Snack Choice
+- ✓ Article word count OK: Why Trending Healthy Snack Choice in 2026: Current Trends is the Best Thing Ever
+- ✓ Article word count OK: The Best Resources for Common Mistakes in Trending Healthy Snack Choice
+- ✓ Article word count OK: The History of Trending Healthy Snack Choice: From Beginner to Expert
+- ✓ Article word count OK: Why Advanced Trending Healthy Snack Choice Techniques is Trending in 2026
+- ✓ Article word count OK: Understanding Future of Trending Healthy Snack Choice: A Deep Dive
+- ✓ Article word count OK: Understanding Future of Trending Healthy Snack Choice: A Deep Dive
+- ✓ Article word count OK: Is Trending Healthy Snack Choice in 2026: Current Trends Actually Worth It?
+- ✓ Article word count OK: Advanced Trending Healthy Snack Choice Techniques: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why Trending Healthy Snack Choice for Beginners is Trending in 2026
+- ✓ Article word count OK: The Future of Trending Healthy Snack Choice: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Advanced Trending Healthy Snack Choice Techniques
+- ✓ Article word count OK: Exploring the World of Trending Healthy Snack Choice: Everything You Need to Know
+- ✓ Article word count OK: Mastering Common Mistakes in Trending Healthy Snack Choice in Easy Steps
+- ✓ Article word count OK: The History of Healthy Snack Choice Tutorials: From Beginner to Expert
+- ✓ Article word count OK: Understanding Healthy Snack Choice Tutorials in 2026: Current Trends: A Deep Dive
+- ✓ Article word count OK: Healthy Snack Choice Tutorials in 2026: Current Trends 101: Complete Beginner's Guide
+- ✓ Article word count OK: Healthy Snack Choice Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Healthy Snack Choice Tutorials
+- ✓ Article word count OK: Why Future of Healthy Snack Choice Tutorials is Trending in 2026
+- ✓ Article word count OK: The History of Healthy Snack Choice Tutorials 101: Complete Beginner's Guide
+- ✓ Article word count OK: Is Healthy Snack Choice Tutorials Tips and Best Practices Actually Worth It?
+- ✓ Article word count OK: The Future of Common Mistakes in Healthy Snack Choice Tutorials: What to Expect
+- ✓ Article word count OK: Essential Healthy Snack Choice Tutorials Techniques You Should Know
+- ✓ Article word count OK: Understanding Common Mistakes in Healthy Snack Choice Tutorials: A Deep Dive
+- ✓ Article word count OK: The Future of Healthy Snack Choice Tutorials for Beginners: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Healthy Snack Choice Tutorials Tips and Best Practices
+- ✓ Article word count OK: The Future of Common Mistakes in Healthy Snack Choice Tutorials: What to Expect
+- ✓ Article word count OK: Healthy Snack Choice Tutorials in 2026: Current Trends: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Future of The History of Healthy Snack Choice Tutorials: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Healthy Snack Choice Tutorials
+- ✓ Article word count OK: What They Don't Tell You About Advanced Healthy Snack Choice Tutorials Techniques
+- ✓ Ad configuration validated
